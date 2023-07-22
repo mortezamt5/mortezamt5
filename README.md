@@ -17,11 +17,11 @@ Experienced in Java , C#.Net , Event-driven Microservices and DevOps solutions
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mortezamt5&show_icons=true&theme=transparent&locale=en" alt="mortezamt5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortezamt5&theme=transparent" alt="mortezamt5" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortezamt5&theme=transparent" alt="mortezamt5" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortezamt5&no-bg=true&theme=algolia" alt="mortezamt5" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/morteza49387046" target="blank"><img src="https://img.shields.io/twitter/follow/morteza49387046?logo=twitter&style=for-the-badge" alt="morteza49387046" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/morteza49387046" target="blank"><img src="https://img.shields.io/twitter/follow/morteza49387046?logo=twitter&style=for-the-badge" alt="morteza49387046" /></a> </p> -->
 
 
 <h3 align="left">Connect with me:</h3>
